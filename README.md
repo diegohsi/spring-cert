@@ -4,6 +4,7 @@ Study guide for spring certification
 Tópicos do Exame
 
 # Container
+
 - The Application Context
 - Spring Essentials Overview
 - Beans Scopes
